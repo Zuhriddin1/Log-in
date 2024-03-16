@@ -1,0 +1,9 @@
+body {
+  background-image: url("https://img.lovepik.com/background/20211021/large/lovepik-global-information-technology-background-image_400923731.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
